@@ -16,32 +16,32 @@ const routes = [
     children: [
       {
         path: 'dashboard',
-        name: 'Dashboard',
+        name: '个人中心',
         component: Dashboard
       },
       {
         path: 'user',
-        name: 'User Profile',
+        name: '镜像中心',
         component: UserProfile
       },
       {
         path: 'table',
-        name: 'Table List',
+        name: '构建中心',
         component: TableList
       },
       {
         path: 'typography',
-        name: 'Typography',
+        name: '服务中心',
         component: Typography
       },
       {
         path: 'icons',
-        name: 'Icons',
+        name: '监控中心',
         component: Icons
       },
       {
         path: 'maps',
-        name: 'Maps',
+        name: '应用市场',
         meta: {
           hideFooter: true
         },
@@ -50,7 +50,7 @@ const routes = [
       },
       {
         path: 'notifications',
-        name: 'Notifications',
+        name: '帮助中心',
         component: Notifications
       }
     ]
