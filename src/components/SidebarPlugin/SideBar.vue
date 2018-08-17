@@ -38,7 +38,7 @@ export default{
   props: {
     title: {
       type: String,
-      default: 'Dolphin'
+      default: '数据中心DC'
     },
     backgroundImage: {
       type: String,

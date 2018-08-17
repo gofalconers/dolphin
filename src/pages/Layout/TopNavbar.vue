@@ -19,7 +19,7 @@
           </div>
           <md-list>
             <md-list-item to="/">
-              <i class="material-icons">dashboard</i>
+              <i class="material-icons">settings</i>
               <p class="hidden-lg hidden-md">Dashboard</p>
             </md-list-item>
 
