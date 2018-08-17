@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
     <div class="container">
-        <nav>
+        <!-- 在此添加页脚内容，比如公司相关信息等<nav>
             <ul>
               <li>
                 <router-link :to="{path:'/dashboard'}">Home</router-link>
@@ -22,10 +22,10 @@
                     </a>
                 </li>
             </ul>
-        </nav>
-        <div class="copyright text-center">
+        </nav> -->
+        <!-- <div class="copyright text-center">
           &copy; {{ new Date().getFullYear() }} <a href="https://www.creative-tim.com/?ref=mdf-vuejs" target="_blank">Creative Tim</a>, made with <i class="fa fa-heart heart"></i> for a better web
-        </div>
+        </div> -->
     </div>
   </footer>
 

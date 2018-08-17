@@ -41,7 +41,7 @@
             </md-list-item>
 
             <md-list-item to="/user">
-              <i class="material-icons">person</i>
+              <i class="material-icons">account_circle</i>
               <p class="hidden-lg hidden-md">Profile</p>
             </md-list-item>
           </md-list>

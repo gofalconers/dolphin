@@ -16,12 +16,12 @@ const routes = [
     children: [
       {
         path: 'dashboard',
-        name: '个人中心',
+        name: '个人面板',
         component: Dashboard
       },
       {
         path: 'user',
-        name: '镜像中心',
+        name: '镜像仓库',
         component: UserProfile
       },
       {

@@ -6,14 +6,14 @@
       <mobile-menu slot="content"></mobile-menu>
       <sidebar-link to="/dashboard">
         <md-icon>person</md-icon>
-        <p>个人中心</p>
+        <p>个人面板</p>
       </sidebar-link>
       <sidebar-link to="/user">
-        <md-icon>dashboard</md-icon>
-        <p>镜像中心</p>
+        <md-icon>drafts</md-icon>
+        <p>镜像仓库</p>
       </sidebar-link>
       <sidebar-link to="/table">
-        <md-icon>content_paste</md-icon>
+        <md-icon>autorenew</md-icon>
         <p>构建中心</p>
       </sidebar-link>
       <sidebar-link to="/typography">
@@ -25,11 +25,11 @@
         <p>监控中心</p>
       </sidebar-link>
       <sidebar-link to="/maps">
-        <md-icon>location_on</md-icon>
+        <md-icon>view_module</md-icon>
         <p>应用市场</p>
       </sidebar-link>
       <sidebar-link to="/notifications">
-        <md-icon>notifications</md-icon>
+        <md-icon>help</md-icon>
         <p>帮助中心</p>
       </sidebar-link>
     </side-bar>

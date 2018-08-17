@@ -38,7 +38,7 @@ export default{
   props: {
     title: {
       type: String,
-      default: 'Vue MD'
+      default: 'Dolphin'
     },
     backgroundImage: {
       type: String,
@@ -46,7 +46,7 @@ export default{
     },
     imgLogo: {
       type: String,
-      default: require('@/assets/img/vue-logo.png')
+      default: require('@/assets/img/dolphin-logo.png')
     },
     activeColor: {
       type: String,
